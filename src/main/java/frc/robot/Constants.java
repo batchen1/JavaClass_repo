@@ -12,9 +12,11 @@ package frc.robot;
  * <p>It is advised to statically import this class (or one of its inner classes) wherever the
  * constants are needed, to reduce verbosity.
  */
+//jj
 public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
-    public static final double pi = 3.14;
+    public static final double pi = 3.1;//rounded to 3.1
+  public int change;
   }
 }
