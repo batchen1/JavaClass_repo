@@ -16,6 +16,7 @@ package frc.robot;
 public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
+    public static final double pi = 3.1;//rounded to 3.1
   public int change;
   }
 }
