@@ -15,6 +15,7 @@ package frc.robot;
 public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
-    public static int myInt = 3;
+    public static final double pi = 3.14;
+    public static int myInt = 3;  // Rounded pi down to 3
   }
 }
